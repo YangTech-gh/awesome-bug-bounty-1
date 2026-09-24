@@ -14,6 +14,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Bug Bounties 101](https://whitton.io/articles/bug-bounties-101-getting-started/)
 - [The life of a bug bounty hunter](http://www.alphr.com/features/378577/q-a-the-life-of-a-bug-bounty-hunter)
 - [Awesome list of bugbounty cheatsheets](https://github.com/EdOverflow/bugbounty-cheatsheet)
+- [Awesome Bug Bounty agent skill](https://github.com/YangTech-gh/Awesome-Bug-Bounty) - Installable agent skill that packages bug-bounty methodology, vulnerability playbooks, and tool guidance for authorized testing (`npx skills add YangTech-gh/Awesome-Bug-Bounty@awesome-bug-bounty`).
 - [Getting Started - Bug Bounty Hunter Methodology](https://www.bugcrowd.com/blog/getting-started-bug-bounty-hunter-methodology)
 
 ### Write Ups & Authors
